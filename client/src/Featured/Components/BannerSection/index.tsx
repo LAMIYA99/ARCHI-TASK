@@ -40,7 +40,7 @@ const BannerSection = () => {
               <h3 className="text-[72px] tracking-[-1px] font-semibold leading-[79.2px] mb-[48px]">
                 Waves Puffer <br /> Coat Black
               </h3>
-              {/* <Button variant="banner">Shop Now</Button> */}
+              <Button variant="banner">Shop Now</Button>
             </div>
             <div className="right mb-[-5em] mt-[-5em]">
               <img
